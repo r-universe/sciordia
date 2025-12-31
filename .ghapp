@@ -1,0 +1,10 @@
+{
+  "id": 101938497,
+  "created_at": "2025-12-30T23:57:52.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rlist", "sciordia.r-universe.dev"]
+}
